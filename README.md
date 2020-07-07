@@ -2,15 +2,27 @@
 
 Flutter assignment for testing Bloc pattern 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <pre>
+AppIcon with Pharous logo
+</pre>
+  <img src="img/appiocn.png" width="200"  height="300"/>
+  <pre>
+Splash screen
+</pre>
+  <img src="img/splash.png" width="200" height="300" />
+  <pre>
+Home screen
+</pre>
+  <img src="img/Home.png" width="200" height="300"/>
+    <pre>
+Details screen
+</pre>
+  <img src="img/Details.png" width="200" height="300" />
+    <pre>
+Webview screen for displaying Pharous website
+</pre>
+  <img src="img/info.png" width="200"  height="300"/> 
+</p>
