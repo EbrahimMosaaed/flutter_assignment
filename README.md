@@ -4,9 +4,7 @@ Flutter assignment for testing Bloc pattern
   <pre>
 </pre>
 you could test the apk from this link
- <pre>
-</pre>
-https://drive.google.com/file/d/1vi78wdJgy41ykSJym6HG0gX0QVr6_7Ih/view?usp=sharing
+
 <p float="left">
 <!--   <pre>
 AppIcon with Pharous logo
