@@ -17,7 +17,7 @@ Splash screen
 <!--   <pre>
 Home screen
 </pre> -->
-  <img src="img/Home.png" width="200" height="300"/>
+  <img src="img/home1.png" width="200" height="300"/>
 <!--     <pre>
 Details screen
 </pre> -->
