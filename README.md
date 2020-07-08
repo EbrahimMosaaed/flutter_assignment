@@ -1,10 +1,14 @@
 # flutterassignment
 
-Flutter assignment for testing Bloc pattern
-  <pre>
+Flutter app for testing Bloc pattern
+<pre>
 </pre>
 you could test the apk from this link
-
+<pre>
+</pre>
+https://drive.google.com/file/d/1J43oWEILlS5vFNDhMp-FxnwjNoz8HA6x/view?usp=sharing
+<pre>
+</pre>
 <p float="left">
 <!--   <pre>
 AppIcon with Pharous logo
